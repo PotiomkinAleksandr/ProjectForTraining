@@ -1,0 +1,23 @@
+
+img {
+    width: 500px;
+}
+
+.important-item {
+	color: red;
+	font-weight: bold;
+    text-decoration: underline;
+}
+
+.navalny {
+	color: blue;
+}
+
+input {
+	padding: 5px;
+}
+
+.emailClass {
+	border: green 3px solid;
+}
+
