@@ -43,6 +43,7 @@ function alertClassAndValue(variable1) {
     alert (variable1.className);
 }
 
+
 // alertClassAndValue (peremennaya2);  
 // alertClassAndValue (perfornumber2);
 // alertClassAndValue (perforEmail);
@@ -142,10 +143,6 @@ var2.setAttribute('value', 'Name');
 
 //console.log(5 + +"6"); //унарный плюс. Меняет тип данных. Преобразует не числа в числа (это тоже самое, что и Number(...) только короче)(Унарным называется оператор, который применяется к одному операнду(аргументу). 2+2 вот здесь плюс БИНАРНЫЙ. то есть применяется к двум операндам)
 
-
-let per1 = 10,
-    per2 = 20;
-
    
 //per1++;     //оператор "инкремент". Прибавляет единицу
 //per2--;     //оператор "декремент". Отнимает единицу
@@ -173,9 +170,6 @@ let per1 = 10,
 
 // "&&" - оператор "и". Работает только если оба значения правдивые
 
-const korova = true,
-      giraf = true; 
-
   
 // "||" - оператор "или". Работает если хотя бы одно значение правдивое.
 
@@ -183,12 +177,31 @@ const korova = true,
 
 // "!=" - НЕ равно. "!==" - строгое НЕ равно
 
-console.log(korova != giraf); //dsdaas
 
 
 
+const numberOfFilms = prompt("Сколько фильмов вы уже посмотрели?", "" );
 
 
+
+const personalMovieDB = {
+    count: numberOfFilms,
+    movies: {},
+    actors: {},
+    genres: [],
+    privat: false
+};
+
+
+const a = prompt('Один из последних просмотренных фильмов?', '');
+const b = prompt('На сколько баллов оцените его?', '');
+const c = prompt('Один из последних просмотренных фильмов?', '');
+const d = prompt('На сколько баллов оцените его?', '');
+
+personalMovieDB.movies[a] = b;
+personalMovieDB.movies[c] = d;
+
+console.log(personalMovieDB);
     
 
 
