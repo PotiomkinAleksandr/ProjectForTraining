@@ -183,7 +183,7 @@ const korova = true,
 
 // "!=" - НЕ равно. "!==" - строгое НЕ равно
 
-console.log(korova != giraf);
+console.log(korova != giraf); //dsdaas
 
 
 
