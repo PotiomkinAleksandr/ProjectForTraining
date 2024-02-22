@@ -5,6 +5,4 @@ hetgit fd f
 1
 фвафва
 toytyty!!
-1212
-111
-fdf
+lolloolool
