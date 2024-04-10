@@ -10,8 +10,4 @@ ffdfsdfds
 kol
 jkhtrh
 jkhghj
-ghfgjjf
-gfdgdfg
-odfkgokfg
-ktywefdsf
-аваывавыа
+ghfgjjgfjh56454
