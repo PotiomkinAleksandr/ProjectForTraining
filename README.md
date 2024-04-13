@@ -8,8 +8,4 @@ toytyty!!
 lolloolool
 ffdfsdfds
 kol
-jkhtrh
-jkhghj
-ghfgjjgfjh56454
-fthgujtsg
-лдлоолд
+jkhdsfdf
